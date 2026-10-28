@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,state,latitude,longitude,capacity,fixed_cost,status
+W001,Dallas DC,Dallas,TX,32.7767,-96.797,51457,382532,Open
+W002,Chicago DC,Chicago,IL,41.8781,-87.6298,77003,419225,Open
+W003,Atlanta DC,Atlanta,GA,33.749,-84.388,62239,593329,Open
+W004,Phoenix DC,Phoenix,AZ,33.4484,-112.074,63106,367155,Open
+W005,Seattle DC,Seattle,WA,47.6062,-122.3321,75710,427240,Open

@@ -1,0 +1,501 @@
+customer_id,customer_name,city,state,latitude,longitude
+C0001,Charlotte Retail Center 1,Charlotte,NC,35.2271,-80.8431
+C0002,New York Retail Center 2,New York,NY,40.7128,-74.006
+C0003,Austin Retail Center 3,Austin,TX,30.2672,-97.7431
+C0004,Los Angeles Retail Center 4,Los Angeles,CA,34.0522,-118.2437
+C0005,Austin Retail Center 5,Austin,TX,30.2672,-97.7431
+C0006,Houston Retail Center 6,Houston,TX,29.7604,-95.3698
+C0007,Portland Retail Center 7,Portland,OR,45.5152,-122.6784
+C0008,Portland Retail Center 8,Portland,OR,45.5152,-122.6784
+C0009,Austin Retail Center 9,Austin,TX,30.2672,-97.7431
+C0010,Miami Retail Center 10,Miami,FL,25.7617,-80.1918
+C0011,Las Vegas Retail Center 11,Las Vegas,NV,36.1699,-115.1398
+C0012,Austin Retail Center 12,Austin,TX,30.2672,-97.7431
+C0013,Las Vegas Retail Center 13,Las Vegas,NV,36.1699,-115.1398
+C0014,Denver Retail Center 14,Denver,CO,39.7392,-104.9903
+C0015,Las Vegas Retail Center 15,Las Vegas,NV,36.1699,-115.1398
+C0016,Boston Retail Center 16,Boston,MA,42.3601,-71.0589
+C0017,Boston Retail Center 17,Boston,MA,42.3601,-71.0589
+C0018,Portland Retail Center 18,Portland,OR,45.5152,-122.6784
+C0019,Miami Retail Center 19,Miami,FL,25.7617,-80.1918
+C0020,Miami Retail Center 20,Miami,FL,25.7617,-80.1918
+C0021,Los Angeles Retail Center 21,Los Angeles,CA,34.0522,-118.2437
+C0022,Miami Retail Center 22,Miami,FL,25.7617,-80.1918
+C0023,Houston Retail Center 23,Houston,TX,29.7604,-95.3698
+C0024,New York Retail Center 24,New York,NY,40.7128,-74.006
+C0025,New York Retail Center 25,New York,NY,40.7128,-74.006
+C0026,New York Retail Center 26,New York,NY,40.7128,-74.006
+C0027,Houston Retail Center 27,Houston,TX,29.7604,-95.3698
+C0028,Austin Retail Center 28,Austin,TX,30.2672,-97.7431
+C0029,Houston Retail Center 29,Houston,TX,29.7604,-95.3698
+C0030,Miami Retail Center 30,Miami,FL,25.7617,-80.1918
+C0031,Miami Retail Center 31,Miami,FL,25.7617,-80.1918
+C0032,Austin Retail Center 32,Austin,TX,30.2672,-97.7431
+C0033,Miami Retail Center 33,Miami,FL,25.7617,-80.1918
+C0034,Denver Retail Center 34,Denver,CO,39.7392,-104.9903
+C0035,Charlotte Retail Center 35,Charlotte,NC,35.2271,-80.8431
+C0036,Austin Retail Center 36,Austin,TX,30.2672,-97.7431
+C0037,Charlotte Retail Center 37,Charlotte,NC,35.2271,-80.8431
+C0038,Austin Retail Center 38,Austin,TX,30.2672,-97.7431
+C0039,New York Retail Center 39,New York,NY,40.7128,-74.006
+C0040,Los Angeles Retail Center 40,Los Angeles,CA,34.0522,-118.2437
+C0041,Miami Retail Center 41,Miami,FL,25.7617,-80.1918
+C0042,Austin Retail Center 42,Austin,TX,30.2672,-97.7431
+C0043,Miami Retail Center 43,Miami,FL,25.7617,-80.1918
+C0044,Boston Retail Center 44,Boston,MA,42.3601,-71.0589
+C0045,Charlotte Retail Center 45,Charlotte,NC,35.2271,-80.8431
+C0046,New York Retail Center 46,New York,NY,40.7128,-74.006
+C0047,Charlotte Retail Center 47,Charlotte,NC,35.2271,-80.8431
+C0048,Miami Retail Center 48,Miami,FL,25.7617,-80.1918
+C0049,Austin Retail Center 49,Austin,TX,30.2672,-97.7431
+C0050,Las Vegas Retail Center 50,Las Vegas,NV,36.1699,-115.1398
+C0051,Los Angeles Retail Center 51,Los Angeles,CA,34.0522,-118.2437
+C0052,Houston Retail Center 52,Houston,TX,29.7604,-95.3698
+C0053,Denver Retail Center 53,Denver,CO,39.7392,-104.9903
+C0054,Houston Retail Center 54,Houston,TX,29.7604,-95.3698
+C0055,Charlotte Retail Center 55,Charlotte,NC,35.2271,-80.8431
+C0056,Charlotte Retail Center 56,Charlotte,NC,35.2271,-80.8431
+C0057,Denver Retail Center 57,Denver,CO,39.7392,-104.9903
+C0058,Charlotte Retail Center 58,Charlotte,NC,35.2271,-80.8431
+C0059,Los Angeles Retail Center 59,Los Angeles,CA,34.0522,-118.2437
+C0060,Denver Retail Center 60,Denver,CO,39.7392,-104.9903
+C0061,Portland Retail Center 61,Portland,OR,45.5152,-122.6784
+C0062,Denver Retail Center 62,Denver,CO,39.7392,-104.9903
+C0063,Los Angeles Retail Center 63,Los Angeles,CA,34.0522,-118.2437
+C0064,Denver Retail Center 64,Denver,CO,39.7392,-104.9903
+C0065,Portland Retail Center 65,Portland,OR,45.5152,-122.6784
+C0066,Las Vegas Retail Center 66,Las Vegas,NV,36.1699,-115.1398
+C0067,Los Angeles Retail Center 67,Los Angeles,CA,34.0522,-118.2437
+C0068,Portland Retail Center 68,Portland,OR,45.5152,-122.6784
+C0069,Charlotte Retail Center 69,Charlotte,NC,35.2271,-80.8431
+C0070,Los Angeles Retail Center 70,Los Angeles,CA,34.0522,-118.2437
+C0071,Boston Retail Center 71,Boston,MA,42.3601,-71.0589
+C0072,Austin Retail Center 72,Austin,TX,30.2672,-97.7431
+C0073,Charlotte Retail Center 73,Charlotte,NC,35.2271,-80.8431
+C0074,Boston Retail Center 74,Boston,MA,42.3601,-71.0589
+C0075,Houston Retail Center 75,Houston,TX,29.7604,-95.3698
+C0076,Portland Retail Center 76,Portland,OR,45.5152,-122.6784
+C0077,Boston Retail Center 77,Boston,MA,42.3601,-71.0589
+C0078,Charlotte Retail Center 78,Charlotte,NC,35.2271,-80.8431
+C0079,Austin Retail Center 79,Austin,TX,30.2672,-97.7431
+C0080,Las Vegas Retail Center 80,Las Vegas,NV,36.1699,-115.1398
+C0081,Houston Retail Center 81,Houston,TX,29.7604,-95.3698
+C0082,New York Retail Center 82,New York,NY,40.7128,-74.006
+C0083,Portland Retail Center 83,Portland,OR,45.5152,-122.6784
+C0084,Boston Retail Center 84,Boston,MA,42.3601,-71.0589
+C0085,Denver Retail Center 85,Denver,CO,39.7392,-104.9903
+C0086,Miami Retail Center 86,Miami,FL,25.7617,-80.1918
+C0087,Miami Retail Center 87,Miami,FL,25.7617,-80.1918
+C0088,Las Vegas Retail Center 88,Las Vegas,NV,36.1699,-115.1398
+C0089,Boston Retail Center 89,Boston,MA,42.3601,-71.0589
+C0090,Austin Retail Center 90,Austin,TX,30.2672,-97.7431
+C0091,Austin Retail Center 91,Austin,TX,30.2672,-97.7431
+C0092,Miami Retail Center 92,Miami,FL,25.7617,-80.1918
+C0093,Las Vegas Retail Center 93,Las Vegas,NV,36.1699,-115.1398
+C0094,Portland Retail Center 94,Portland,OR,45.5152,-122.6784
+C0095,Los Angeles Retail Center 95,Los Angeles,CA,34.0522,-118.2437
+C0096,Charlotte Retail Center 96,Charlotte,NC,35.2271,-80.8431
+C0097,Portland Retail Center 97,Portland,OR,45.5152,-122.6784
+C0098,Las Vegas Retail Center 98,Las Vegas,NV,36.1699,-115.1398
+C0099,New York Retail Center 99,New York,NY,40.7128,-74.006
+C0100,Austin Retail Center 100,Austin,TX,30.2672,-97.7431
+C0101,New York Retail Center 101,New York,NY,40.7128,-74.006
+C0102,Austin Retail Center 102,Austin,TX,30.2672,-97.7431
+C0103,Boston Retail Center 103,Boston,MA,42.3601,-71.0589
+C0104,Denver Retail Center 104,Denver,CO,39.7392,-104.9903
+C0105,Las Vegas Retail Center 105,Las Vegas,NV,36.1699,-115.1398
+C0106,Austin Retail Center 106,Austin,TX,30.2672,-97.7431
+C0107,Denver Retail Center 107,Denver,CO,39.7392,-104.9903
+C0108,Austin Retail Center 108,Austin,TX,30.2672,-97.7431
+C0109,Miami Retail Center 109,Miami,FL,25.7617,-80.1918
+C0110,Austin Retail Center 110,Austin,TX,30.2672,-97.7431
+C0111,Miami Retail Center 111,Miami,FL,25.7617,-80.1918
+C0112,Charlotte Retail Center 112,Charlotte,NC,35.2271,-80.8431
+C0113,Charlotte Retail Center 113,Charlotte,NC,35.2271,-80.8431
+C0114,Houston Retail Center 114,Houston,TX,29.7604,-95.3698
+C0115,Boston Retail Center 115,Boston,MA,42.3601,-71.0589
+C0116,Austin Retail Center 116,Austin,TX,30.2672,-97.7431
+C0117,Austin Retail Center 117,Austin,TX,30.2672,-97.7431
+C0118,Los Angeles Retail Center 118,Los Angeles,CA,34.0522,-118.2437
+C0119,Portland Retail Center 119,Portland,OR,45.5152,-122.6784
+C0120,Miami Retail Center 120,Miami,FL,25.7617,-80.1918
+C0121,Los Angeles Retail Center 121,Los Angeles,CA,34.0522,-118.2437
+C0122,Denver Retail Center 122,Denver,CO,39.7392,-104.9903
+C0123,Denver Retail Center 123,Denver,CO,39.7392,-104.9903
+C0124,New York Retail Center 124,New York,NY,40.7128,-74.006
+C0125,Las Vegas Retail Center 125,Las Vegas,NV,36.1699,-115.1398
+C0126,Charlotte Retail Center 126,Charlotte,NC,35.2271,-80.8431
+C0127,Denver Retail Center 127,Denver,CO,39.7392,-104.9903
+C0128,Las Vegas Retail Center 128,Las Vegas,NV,36.1699,-115.1398
+C0129,New York Retail Center 129,New York,NY,40.7128,-74.006
+C0130,Las Vegas Retail Center 130,Las Vegas,NV,36.1699,-115.1398
+C0131,Las Vegas Retail Center 131,Las Vegas,NV,36.1699,-115.1398
+C0132,Houston Retail Center 132,Houston,TX,29.7604,-95.3698
+C0133,Las Vegas Retail Center 133,Las Vegas,NV,36.1699,-115.1398
+C0134,Portland Retail Center 134,Portland,OR,45.5152,-122.6784
+C0135,Miami Retail Center 135,Miami,FL,25.7617,-80.1918
+C0136,Las Vegas Retail Center 136,Las Vegas,NV,36.1699,-115.1398
+C0137,Houston Retail Center 137,Houston,TX,29.7604,-95.3698
+C0138,Denver Retail Center 138,Denver,CO,39.7392,-104.9903
+C0139,Las Vegas Retail Center 139,Las Vegas,NV,36.1699,-115.1398
+C0140,Austin Retail Center 140,Austin,TX,30.2672,-97.7431
+C0141,Charlotte Retail Center 141,Charlotte,NC,35.2271,-80.8431
+C0142,Denver Retail Center 142,Denver,CO,39.7392,-104.9903
+C0143,New York Retail Center 143,New York,NY,40.7128,-74.006
+C0144,Boston Retail Center 144,Boston,MA,42.3601,-71.0589
+C0145,New York Retail Center 145,New York,NY,40.7128,-74.006
+C0146,Denver Retail Center 146,Denver,CO,39.7392,-104.9903
+C0147,Charlotte Retail Center 147,Charlotte,NC,35.2271,-80.8431
+C0148,Portland Retail Center 148,Portland,OR,45.5152,-122.6784
+C0149,Portland Retail Center 149,Portland,OR,45.5152,-122.6784
+C0150,Las Vegas Retail Center 150,Las Vegas,NV,36.1699,-115.1398
+C0151,Houston Retail Center 151,Houston,TX,29.7604,-95.3698
+C0152,Boston Retail Center 152,Boston,MA,42.3601,-71.0589
+C0153,Austin Retail Center 153,Austin,TX,30.2672,-97.7431
+C0154,Miami Retail Center 154,Miami,FL,25.7617,-80.1918
+C0155,Austin Retail Center 155,Austin,TX,30.2672,-97.7431
+C0156,Miami Retail Center 156,Miami,FL,25.7617,-80.1918
+C0157,New York Retail Center 157,New York,NY,40.7128,-74.006
+C0158,Las Vegas Retail Center 158,Las Vegas,NV,36.1699,-115.1398
+C0159,Charlotte Retail Center 159,Charlotte,NC,35.2271,-80.8431
+C0160,Las Vegas Retail Center 160,Las Vegas,NV,36.1699,-115.1398
+C0161,Denver Retail Center 161,Denver,CO,39.7392,-104.9903
+C0162,Portland Retail Center 162,Portland,OR,45.5152,-122.6784
+C0163,Austin Retail Center 163,Austin,TX,30.2672,-97.7431
+C0164,Portland Retail Center 164,Portland,OR,45.5152,-122.6784
+C0165,Charlotte Retail Center 165,Charlotte,NC,35.2271,-80.8431
+C0166,Denver Retail Center 166,Denver,CO,39.7392,-104.9903
+C0167,New York Retail Center 167,New York,NY,40.7128,-74.006
+C0168,Portland Retail Center 168,Portland,OR,45.5152,-122.6784
+C0169,Denver Retail Center 169,Denver,CO,39.7392,-104.9903
+C0170,Boston Retail Center 170,Boston,MA,42.3601,-71.0589
+C0171,Denver Retail Center 171,Denver,CO,39.7392,-104.9903
+C0172,Houston Retail Center 172,Houston,TX,29.7604,-95.3698
+C0173,Boston Retail Center 173,Boston,MA,42.3601,-71.0589
+C0174,Boston Retail Center 174,Boston,MA,42.3601,-71.0589
+C0175,Miami Retail Center 175,Miami,FL,25.7617,-80.1918
+C0176,Las Vegas Retail Center 176,Las Vegas,NV,36.1699,-115.1398
+C0177,Houston Retail Center 177,Houston,TX,29.7604,-95.3698
+C0178,Las Vegas Retail Center 178,Las Vegas,NV,36.1699,-115.1398
+C0179,New York Retail Center 179,New York,NY,40.7128,-74.006
+C0180,Austin Retail Center 180,Austin,TX,30.2672,-97.7431
+C0181,Portland Retail Center 181,Portland,OR,45.5152,-122.6784
+C0182,Denver Retail Center 182,Denver,CO,39.7392,-104.9903
+C0183,Austin Retail Center 183,Austin,TX,30.2672,-97.7431
+C0184,Charlotte Retail Center 184,Charlotte,NC,35.2271,-80.8431
+C0185,Portland Retail Center 185,Portland,OR,45.5152,-122.6784
+C0186,Austin Retail Center 186,Austin,TX,30.2672,-97.7431
+C0187,Miami Retail Center 187,Miami,FL,25.7617,-80.1918
+C0188,Austin Retail Center 188,Austin,TX,30.2672,-97.7431
+C0189,Houston Retail Center 189,Houston,TX,29.7604,-95.3698
+C0190,Houston Retail Center 190,Houston,TX,29.7604,-95.3698
+C0191,Las Vegas Retail Center 191,Las Vegas,NV,36.1699,-115.1398
+C0192,Houston Retail Center 192,Houston,TX,29.7604,-95.3698
+C0193,Miami Retail Center 193,Miami,FL,25.7617,-80.1918
+C0194,New York Retail Center 194,New York,NY,40.7128,-74.006
+C0195,Miami Retail Center 195,Miami,FL,25.7617,-80.1918
+C0196,Boston Retail Center 196,Boston,MA,42.3601,-71.0589
+C0197,Los Angeles Retail Center 197,Los Angeles,CA,34.0522,-118.2437
+C0198,Miami Retail Center 198,Miami,FL,25.7617,-80.1918
+C0199,New York Retail Center 199,New York,NY,40.7128,-74.006
+C0200,Austin Retail Center 200,Austin,TX,30.2672,-97.7431
+C0201,Los Angeles Retail Center 201,Los Angeles,CA,34.0522,-118.2437
+C0202,Boston Retail Center 202,Boston,MA,42.3601,-71.0589
+C0203,Denver Retail Center 203,Denver,CO,39.7392,-104.9903
+C0204,Charlotte Retail Center 204,Charlotte,NC,35.2271,-80.8431
+C0205,Las Vegas Retail Center 205,Las Vegas,NV,36.1699,-115.1398
+C0206,New York Retail Center 206,New York,NY,40.7128,-74.006
+C0207,Los Angeles Retail Center 207,Los Angeles,CA,34.0522,-118.2437
+C0208,Las Vegas Retail Center 208,Las Vegas,NV,36.1699,-115.1398
+C0209,Los Angeles Retail Center 209,Los Angeles,CA,34.0522,-118.2437
+C0210,Los Angeles Retail Center 210,Los Angeles,CA,34.0522,-118.2437
+C0211,Denver Retail Center 211,Denver,CO,39.7392,-104.9903
+C0212,Portland Retail Center 212,Portland,OR,45.5152,-122.6784
+C0213,Portland Retail Center 213,Portland,OR,45.5152,-122.6784
+C0214,New York Retail Center 214,New York,NY,40.7128,-74.006
+C0215,Austin Retail Center 215,Austin,TX,30.2672,-97.7431
+C0216,Las Vegas Retail Center 216,Las Vegas,NV,36.1699,-115.1398
+C0217,Portland Retail Center 217,Portland,OR,45.5152,-122.6784
+C0218,Boston Retail Center 218,Boston,MA,42.3601,-71.0589
+C0219,Charlotte Retail Center 219,Charlotte,NC,35.2271,-80.8431
+C0220,New York Retail Center 220,New York,NY,40.7128,-74.006
+C0221,New York Retail Center 221,New York,NY,40.7128,-74.006
+C0222,New York Retail Center 222,New York,NY,40.7128,-74.006
+C0223,New York Retail Center 223,New York,NY,40.7128,-74.006
+C0224,Los Angeles Retail Center 224,Los Angeles,CA,34.0522,-118.2437
+C0225,Austin Retail Center 225,Austin,TX,30.2672,-97.7431
+C0226,New York Retail Center 226,New York,NY,40.7128,-74.006
+C0227,Miami Retail Center 227,Miami,FL,25.7617,-80.1918
+C0228,Las Vegas Retail Center 228,Las Vegas,NV,36.1699,-115.1398
+C0229,Austin Retail Center 229,Austin,TX,30.2672,-97.7431
+C0230,Houston Retail Center 230,Houston,TX,29.7604,-95.3698
+C0231,Portland Retail Center 231,Portland,OR,45.5152,-122.6784
+C0232,Miami Retail Center 232,Miami,FL,25.7617,-80.1918
+C0233,Los Angeles Retail Center 233,Los Angeles,CA,34.0522,-118.2437
+C0234,Houston Retail Center 234,Houston,TX,29.7604,-95.3698
+C0235,Denver Retail Center 235,Denver,CO,39.7392,-104.9903
+C0236,Austin Retail Center 236,Austin,TX,30.2672,-97.7431
+C0237,Las Vegas Retail Center 237,Las Vegas,NV,36.1699,-115.1398
+C0238,Portland Retail Center 238,Portland,OR,45.5152,-122.6784
+C0239,Houston Retail Center 239,Houston,TX,29.7604,-95.3698
+C0240,Houston Retail Center 240,Houston,TX,29.7604,-95.3698
+C0241,Boston Retail Center 241,Boston,MA,42.3601,-71.0589
+C0242,Las Vegas Retail Center 242,Las Vegas,NV,36.1699,-115.1398
+C0243,Los Angeles Retail Center 243,Los Angeles,CA,34.0522,-118.2437
+C0244,Austin Retail Center 244,Austin,TX,30.2672,-97.7431
+C0245,Houston Retail Center 245,Houston,TX,29.7604,-95.3698
+C0246,New York Retail Center 246,New York,NY,40.7128,-74.006
+C0247,Charlotte Retail Center 247,Charlotte,NC,35.2271,-80.8431
+C0248,Los Angeles Retail Center 248,Los Angeles,CA,34.0522,-118.2437
+C0249,Charlotte Retail Center 249,Charlotte,NC,35.2271,-80.8431
+C0250,Los Angeles Retail Center 250,Los Angeles,CA,34.0522,-118.2437
+C0251,Austin Retail Center 251,Austin,TX,30.2672,-97.7431
+C0252,Charlotte Retail Center 252,Charlotte,NC,35.2271,-80.8431
+C0253,Portland Retail Center 253,Portland,OR,45.5152,-122.6784
+C0254,Miami Retail Center 254,Miami,FL,25.7617,-80.1918
+C0255,Houston Retail Center 255,Houston,TX,29.7604,-95.3698
+C0256,Las Vegas Retail Center 256,Las Vegas,NV,36.1699,-115.1398
+C0257,Charlotte Retail Center 257,Charlotte,NC,35.2271,-80.8431
+C0258,Las Vegas Retail Center 258,Las Vegas,NV,36.1699,-115.1398
+C0259,Miami Retail Center 259,Miami,FL,25.7617,-80.1918
+C0260,New York Retail Center 260,New York,NY,40.7128,-74.006
+C0261,New York Retail Center 261,New York,NY,40.7128,-74.006
+C0262,Austin Retail Center 262,Austin,TX,30.2672,-97.7431
+C0263,Houston Retail Center 263,Houston,TX,29.7604,-95.3698
+C0264,Houston Retail Center 264,Houston,TX,29.7604,-95.3698
+C0265,Charlotte Retail Center 265,Charlotte,NC,35.2271,-80.8431
+C0266,Charlotte Retail Center 266,Charlotte,NC,35.2271,-80.8431
+C0267,Austin Retail Center 267,Austin,TX,30.2672,-97.7431
+C0268,New York Retail Center 268,New York,NY,40.7128,-74.006
+C0269,Portland Retail Center 269,Portland,OR,45.5152,-122.6784
+C0270,New York Retail Center 270,New York,NY,40.7128,-74.006
+C0271,Houston Retail Center 271,Houston,TX,29.7604,-95.3698
+C0272,Portland Retail Center 272,Portland,OR,45.5152,-122.6784
+C0273,Charlotte Retail Center 273,Charlotte,NC,35.2271,-80.8431
+C0274,Houston Retail Center 274,Houston,TX,29.7604,-95.3698
+C0275,New York Retail Center 275,New York,NY,40.7128,-74.006
+C0276,Boston Retail Center 276,Boston,MA,42.3601,-71.0589
+C0277,Denver Retail Center 277,Denver,CO,39.7392,-104.9903
+C0278,Boston Retail Center 278,Boston,MA,42.3601,-71.0589
+C0279,Denver Retail Center 279,Denver,CO,39.7392,-104.9903
+C0280,Charlotte Retail Center 280,Charlotte,NC,35.2271,-80.8431
+C0281,Los Angeles Retail Center 281,Los Angeles,CA,34.0522,-118.2437
+C0282,Austin Retail Center 282,Austin,TX,30.2672,-97.7431
+C0283,Portland Retail Center 283,Portland,OR,45.5152,-122.6784
+C0284,Los Angeles Retail Center 284,Los Angeles,CA,34.0522,-118.2437
+C0285,Austin Retail Center 285,Austin,TX,30.2672,-97.7431
+C0286,Los Angeles Retail Center 286,Los Angeles,CA,34.0522,-118.2437
+C0287,Portland Retail Center 287,Portland,OR,45.5152,-122.6784
+C0288,Miami Retail Center 288,Miami,FL,25.7617,-80.1918
+C0289,Houston Retail Center 289,Houston,TX,29.7604,-95.3698
+C0290,Portland Retail Center 290,Portland,OR,45.5152,-122.6784
+C0291,New York Retail Center 291,New York,NY,40.7128,-74.006
+C0292,Denver Retail Center 292,Denver,CO,39.7392,-104.9903
+C0293,Las Vegas Retail Center 293,Las Vegas,NV,36.1699,-115.1398
+C0294,Houston Retail Center 294,Houston,TX,29.7604,-95.3698
+C0295,Las Vegas Retail Center 295,Las Vegas,NV,36.1699,-115.1398
+C0296,New York Retail Center 296,New York,NY,40.7128,-74.006
+C0297,Houston Retail Center 297,Houston,TX,29.7604,-95.3698
+C0298,Austin Retail Center 298,Austin,TX,30.2672,-97.7431
+C0299,Las Vegas Retail Center 299,Las Vegas,NV,36.1699,-115.1398
+C0300,Portland Retail Center 300,Portland,OR,45.5152,-122.6784
+C0301,Los Angeles Retail Center 301,Los Angeles,CA,34.0522,-118.2437
+C0302,Las Vegas Retail Center 302,Las Vegas,NV,36.1699,-115.1398
+C0303,Portland Retail Center 303,Portland,OR,45.5152,-122.6784
+C0304,Austin Retail Center 304,Austin,TX,30.2672,-97.7431
+C0305,Boston Retail Center 305,Boston,MA,42.3601,-71.0589
+C0306,Los Angeles Retail Center 306,Los Angeles,CA,34.0522,-118.2437
+C0307,Charlotte Retail Center 307,Charlotte,NC,35.2271,-80.8431
+C0308,Charlotte Retail Center 308,Charlotte,NC,35.2271,-80.8431
+C0309,Austin Retail Center 309,Austin,TX,30.2672,-97.7431
+C0310,Denver Retail Center 310,Denver,CO,39.7392,-104.9903
+C0311,Boston Retail Center 311,Boston,MA,42.3601,-71.0589
+C0312,Boston Retail Center 312,Boston,MA,42.3601,-71.0589
+C0313,New York Retail Center 313,New York,NY,40.7128,-74.006
+C0314,Portland Retail Center 314,Portland,OR,45.5152,-122.6784
+C0315,Houston Retail Center 315,Houston,TX,29.7604,-95.3698
+C0316,Charlotte Retail Center 316,Charlotte,NC,35.2271,-80.8431
+C0317,New York Retail Center 317,New York,NY,40.7128,-74.006
+C0318,Portland Retail Center 318,Portland,OR,45.5152,-122.6784
+C0319,Boston Retail Center 319,Boston,MA,42.3601,-71.0589
+C0320,Charlotte Retail Center 320,Charlotte,NC,35.2271,-80.8431
+C0321,Las Vegas Retail Center 321,Las Vegas,NV,36.1699,-115.1398
+C0322,Houston Retail Center 322,Houston,TX,29.7604,-95.3698
+C0323,Miami Retail Center 323,Miami,FL,25.7617,-80.1918
+C0324,Austin Retail Center 324,Austin,TX,30.2672,-97.7431
+C0325,Los Angeles Retail Center 325,Los Angeles,CA,34.0522,-118.2437
+C0326,Las Vegas Retail Center 326,Las Vegas,NV,36.1699,-115.1398
+C0327,Miami Retail Center 327,Miami,FL,25.7617,-80.1918
+C0328,New York Retail Center 328,New York,NY,40.7128,-74.006
+C0329,Boston Retail Center 329,Boston,MA,42.3601,-71.0589
+C0330,Denver Retail Center 330,Denver,CO,39.7392,-104.9903
+C0331,Houston Retail Center 331,Houston,TX,29.7604,-95.3698
+C0332,Boston Retail Center 332,Boston,MA,42.3601,-71.0589
+C0333,Charlotte Retail Center 333,Charlotte,NC,35.2271,-80.8431
+C0334,Boston Retail Center 334,Boston,MA,42.3601,-71.0589
+C0335,New York Retail Center 335,New York,NY,40.7128,-74.006
+C0336,Denver Retail Center 336,Denver,CO,39.7392,-104.9903
+C0337,Las Vegas Retail Center 337,Las Vegas,NV,36.1699,-115.1398
+C0338,Houston Retail Center 338,Houston,TX,29.7604,-95.3698
+C0339,Denver Retail Center 339,Denver,CO,39.7392,-104.9903
+C0340,Austin Retail Center 340,Austin,TX,30.2672,-97.7431
+C0341,Charlotte Retail Center 341,Charlotte,NC,35.2271,-80.8431
+C0342,Portland Retail Center 342,Portland,OR,45.5152,-122.6784
+C0343,Austin Retail Center 343,Austin,TX,30.2672,-97.7431
+C0344,Boston Retail Center 344,Boston,MA,42.3601,-71.0589
+C0345,Denver Retail Center 345,Denver,CO,39.7392,-104.9903
+C0346,Las Vegas Retail Center 346,Las Vegas,NV,36.1699,-115.1398
+C0347,Las Vegas Retail Center 347,Las Vegas,NV,36.1699,-115.1398
+C0348,Las Vegas Retail Center 348,Las Vegas,NV,36.1699,-115.1398
+C0349,New York Retail Center 349,New York,NY,40.7128,-74.006
+C0350,New York Retail Center 350,New York,NY,40.7128,-74.006
+C0351,Las Vegas Retail Center 351,Las Vegas,NV,36.1699,-115.1398
+C0352,Denver Retail Center 352,Denver,CO,39.7392,-104.9903
+C0353,Charlotte Retail Center 353,Charlotte,NC,35.2271,-80.8431
+C0354,Portland Retail Center 354,Portland,OR,45.5152,-122.6784
+C0355,Las Vegas Retail Center 355,Las Vegas,NV,36.1699,-115.1398
+C0356,Austin Retail Center 356,Austin,TX,30.2672,-97.7431
+C0357,New York Retail Center 357,New York,NY,40.7128,-74.006
+C0358,Miami Retail Center 358,Miami,FL,25.7617,-80.1918
+C0359,Los Angeles Retail Center 359,Los Angeles,CA,34.0522,-118.2437
+C0360,Denver Retail Center 360,Denver,CO,39.7392,-104.9903
+C0361,Houston Retail Center 361,Houston,TX,29.7604,-95.3698
+C0362,Miami Retail Center 362,Miami,FL,25.7617,-80.1918
+C0363,Las Vegas Retail Center 363,Las Vegas,NV,36.1699,-115.1398
+C0364,Houston Retail Center 364,Houston,TX,29.7604,-95.3698
+C0365,Miami Retail Center 365,Miami,FL,25.7617,-80.1918
+C0366,New York Retail Center 366,New York,NY,40.7128,-74.006
+C0367,Charlotte Retail Center 367,Charlotte,NC,35.2271,-80.8431
+C0368,Denver Retail Center 368,Denver,CO,39.7392,-104.9903
+C0369,Houston Retail Center 369,Houston,TX,29.7604,-95.3698
+C0370,New York Retail Center 370,New York,NY,40.7128,-74.006
+C0371,Austin Retail Center 371,Austin,TX,30.2672,-97.7431
+C0372,Houston Retail Center 372,Houston,TX,29.7604,-95.3698
+C0373,Denver Retail Center 373,Denver,CO,39.7392,-104.9903
+C0374,Los Angeles Retail Center 374,Los Angeles,CA,34.0522,-118.2437
+C0375,Charlotte Retail Center 375,Charlotte,NC,35.2271,-80.8431
+C0376,Portland Retail Center 376,Portland,OR,45.5152,-122.6784
+C0377,Las Vegas Retail Center 377,Las Vegas,NV,36.1699,-115.1398
+C0378,Charlotte Retail Center 378,Charlotte,NC,35.2271,-80.8431
+C0379,Portland Retail Center 379,Portland,OR,45.5152,-122.6784
+C0380,Boston Retail Center 380,Boston,MA,42.3601,-71.0589
+C0381,Los Angeles Retail Center 381,Los Angeles,CA,34.0522,-118.2437
+C0382,New York Retail Center 382,New York,NY,40.7128,-74.006
+C0383,Austin Retail Center 383,Austin,TX,30.2672,-97.7431
+C0384,Boston Retail Center 384,Boston,MA,42.3601,-71.0589
+C0385,Charlotte Retail Center 385,Charlotte,NC,35.2271,-80.8431
+C0386,Charlotte Retail Center 386,Charlotte,NC,35.2271,-80.8431
+C0387,Austin Retail Center 387,Austin,TX,30.2672,-97.7431
+C0388,Austin Retail Center 388,Austin,TX,30.2672,-97.7431
+C0389,Las Vegas Retail Center 389,Las Vegas,NV,36.1699,-115.1398
+C0390,Portland Retail Center 390,Portland,OR,45.5152,-122.6784
+C0391,New York Retail Center 391,New York,NY,40.7128,-74.006
+C0392,Boston Retail Center 392,Boston,MA,42.3601,-71.0589
+C0393,Miami Retail Center 393,Miami,FL,25.7617,-80.1918
+C0394,Houston Retail Center 394,Houston,TX,29.7604,-95.3698
+C0395,Portland Retail Center 395,Portland,OR,45.5152,-122.6784
+C0396,Denver Retail Center 396,Denver,CO,39.7392,-104.9903
+C0397,Portland Retail Center 397,Portland,OR,45.5152,-122.6784
+C0398,Miami Retail Center 398,Miami,FL,25.7617,-80.1918
+C0399,New York Retail Center 399,New York,NY,40.7128,-74.006
+C0400,Las Vegas Retail Center 400,Las Vegas,NV,36.1699,-115.1398
+C0401,Austin Retail Center 401,Austin,TX,30.2672,-97.7431
+C0402,Houston Retail Center 402,Houston,TX,29.7604,-95.3698
+C0403,Miami Retail Center 403,Miami,FL,25.7617,-80.1918
+C0404,Los Angeles Retail Center 404,Los Angeles,CA,34.0522,-118.2437
+C0405,New York Retail Center 405,New York,NY,40.7128,-74.006
+C0406,Portland Retail Center 406,Portland,OR,45.5152,-122.6784
+C0407,Denver Retail Center 407,Denver,CO,39.7392,-104.9903
+C0408,Houston Retail Center 408,Houston,TX,29.7604,-95.3698
+C0409,Las Vegas Retail Center 409,Las Vegas,NV,36.1699,-115.1398
+C0410,Houston Retail Center 410,Houston,TX,29.7604,-95.3698
+C0411,Charlotte Retail Center 411,Charlotte,NC,35.2271,-80.8431
+C0412,Charlotte Retail Center 412,Charlotte,NC,35.2271,-80.8431
+C0413,Charlotte Retail Center 413,Charlotte,NC,35.2271,-80.8431
+C0414,Las Vegas Retail Center 414,Las Vegas,NV,36.1699,-115.1398
+C0415,Charlotte Retail Center 415,Charlotte,NC,35.2271,-80.8431
+C0416,Los Angeles Retail Center 416,Los Angeles,CA,34.0522,-118.2437
+C0417,Denver Retail Center 417,Denver,CO,39.7392,-104.9903
+C0418,New York Retail Center 418,New York,NY,40.7128,-74.006
+C0419,Denver Retail Center 419,Denver,CO,39.7392,-104.9903
+C0420,Houston Retail Center 420,Houston,TX,29.7604,-95.3698
+C0421,Austin Retail Center 421,Austin,TX,30.2672,-97.7431
+C0422,Austin Retail Center 422,Austin,TX,30.2672,-97.7431
+C0423,Charlotte Retail Center 423,Charlotte,NC,35.2271,-80.8431
+C0424,Las Vegas Retail Center 424,Las Vegas,NV,36.1699,-115.1398
+C0425,Portland Retail Center 425,Portland,OR,45.5152,-122.6784
+C0426,New York Retail Center 426,New York,NY,40.7128,-74.006
+C0427,Boston Retail Center 427,Boston,MA,42.3601,-71.0589
+C0428,Austin Retail Center 428,Austin,TX,30.2672,-97.7431
+C0429,New York Retail Center 429,New York,NY,40.7128,-74.006
+C0430,Boston Retail Center 430,Boston,MA,42.3601,-71.0589
+C0431,Miami Retail Center 431,Miami,FL,25.7617,-80.1918
+C0432,Houston Retail Center 432,Houston,TX,29.7604,-95.3698
+C0433,Portland Retail Center 433,Portland,OR,45.5152,-122.6784
+C0434,Boston Retail Center 434,Boston,MA,42.3601,-71.0589
+C0435,Denver Retail Center 435,Denver,CO,39.7392,-104.9903
+C0436,Portland Retail Center 436,Portland,OR,45.5152,-122.6784
+C0437,Los Angeles Retail Center 437,Los Angeles,CA,34.0522,-118.2437
+C0438,Los Angeles Retail Center 438,Los Angeles,CA,34.0522,-118.2437
+C0439,Portland Retail Center 439,Portland,OR,45.5152,-122.6784
+C0440,Los Angeles Retail Center 440,Los Angeles,CA,34.0522,-118.2437
+C0441,Miami Retail Center 441,Miami,FL,25.7617,-80.1918
+C0442,Portland Retail Center 442,Portland,OR,45.5152,-122.6784
+C0443,Austin Retail Center 443,Austin,TX,30.2672,-97.7431
+C0444,Los Angeles Retail Center 444,Los Angeles,CA,34.0522,-118.2437
+C0445,Charlotte Retail Center 445,Charlotte,NC,35.2271,-80.8431
+C0446,Charlotte Retail Center 446,Charlotte,NC,35.2271,-80.8431
+C0447,Boston Retail Center 447,Boston,MA,42.3601,-71.0589
+C0448,Los Angeles Retail Center 448,Los Angeles,CA,34.0522,-118.2437
+C0449,Los Angeles Retail Center 449,Los Angeles,CA,34.0522,-118.2437
+C0450,Houston Retail Center 450,Houston,TX,29.7604,-95.3698
+C0451,Houston Retail Center 451,Houston,TX,29.7604,-95.3698
+C0452,Las Vegas Retail Center 452,Las Vegas,NV,36.1699,-115.1398
+C0453,Portland Retail Center 453,Portland,OR,45.5152,-122.6784
+C0454,Houston Retail Center 454,Houston,TX,29.7604,-95.3698
+C0455,Charlotte Retail Center 455,Charlotte,NC,35.2271,-80.8431
+C0456,Los Angeles Retail Center 456,Los Angeles,CA,34.0522,-118.2437
+C0457,Denver Retail Center 457,Denver,CO,39.7392,-104.9903
+C0458,Charlotte Retail Center 458,Charlotte,NC,35.2271,-80.8431
+C0459,Las Vegas Retail Center 459,Las Vegas,NV,36.1699,-115.1398
+C0460,Las Vegas Retail Center 460,Las Vegas,NV,36.1699,-115.1398
+C0461,Portland Retail Center 461,Portland,OR,45.5152,-122.6784
+C0462,Austin Retail Center 462,Austin,TX,30.2672,-97.7431
+C0463,Portland Retail Center 463,Portland,OR,45.5152,-122.6784
+C0464,Los Angeles Retail Center 464,Los Angeles,CA,34.0522,-118.2437
+C0465,Miami Retail Center 465,Miami,FL,25.7617,-80.1918
+C0466,Denver Retail Center 466,Denver,CO,39.7392,-104.9903
+C0467,Boston Retail Center 467,Boston,MA,42.3601,-71.0589
+C0468,Denver Retail Center 468,Denver,CO,39.7392,-104.9903
+C0469,Las Vegas Retail Center 469,Las Vegas,NV,36.1699,-115.1398
+C0470,Austin Retail Center 470,Austin,TX,30.2672,-97.7431
+C0471,Miami Retail Center 471,Miami,FL,25.7617,-80.1918
+C0472,Houston Retail Center 472,Houston,TX,29.7604,-95.3698
+C0473,Boston Retail Center 473,Boston,MA,42.3601,-71.0589
+C0474,Portland Retail Center 474,Portland,OR,45.5152,-122.6784
+C0475,Miami Retail Center 475,Miami,FL,25.7617,-80.1918
+C0476,Austin Retail Center 476,Austin,TX,30.2672,-97.7431
+C0477,Boston Retail Center 477,Boston,MA,42.3601,-71.0589
+C0478,Denver Retail Center 478,Denver,CO,39.7392,-104.9903
+C0479,Houston Retail Center 479,Houston,TX,29.7604,-95.3698
+C0480,New York Retail Center 480,New York,NY,40.7128,-74.006
+C0481,Boston Retail Center 481,Boston,MA,42.3601,-71.0589
+C0482,Portland Retail Center 482,Portland,OR,45.5152,-122.6784
+C0483,Las Vegas Retail Center 483,Las Vegas,NV,36.1699,-115.1398
+C0484,Charlotte Retail Center 484,Charlotte,NC,35.2271,-80.8431
+C0485,Charlotte Retail Center 485,Charlotte,NC,35.2271,-80.8431
+C0486,Portland Retail Center 486,Portland,OR,45.5152,-122.6784
+C0487,Miami Retail Center 487,Miami,FL,25.7617,-80.1918
+C0488,Austin Retail Center 488,Austin,TX,30.2672,-97.7431
+C0489,Los Angeles Retail Center 489,Los Angeles,CA,34.0522,-118.2437
+C0490,Boston Retail Center 490,Boston,MA,42.3601,-71.0589
+C0491,Houston Retail Center 491,Houston,TX,29.7604,-95.3698
+C0492,Charlotte Retail Center 492,Charlotte,NC,35.2271,-80.8431
+C0493,Los Angeles Retail Center 493,Los Angeles,CA,34.0522,-118.2437
+C0494,Las Vegas Retail Center 494,Las Vegas,NV,36.1699,-115.1398
+C0495,Portland Retail Center 495,Portland,OR,45.5152,-122.6784
+C0496,Portland Retail Center 496,Portland,OR,45.5152,-122.6784
+C0497,Miami Retail Center 497,Miami,FL,25.7617,-80.1918
+C0498,Boston Retail Center 498,Boston,MA,42.3601,-71.0589
+C0499,Charlotte Retail Center 499,Charlotte,NC,35.2271,-80.8431
+C0500,New York Retail Center 500,New York,NY,40.7128,-74.006
